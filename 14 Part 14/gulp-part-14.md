@@ -133,7 +133,9 @@ gulp.task('default', function () {
 ```
 <br>
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 ![enter image description here](https://raw.githubusercontent.com/robertdunaway/gulp-book/master/14%20Part%2014/1.png)

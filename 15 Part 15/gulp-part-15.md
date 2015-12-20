@@ -146,9 +146,13 @@ The first option uses the prod configuration.  The second uses the default which
 <br>
 To change the environment manually execute the one of the following commands.  The first executes the setEnv task and passes in the --env parameter with the value of prod.  The `env.config.prod.json` file will be used.
 <br>
-```Gulp setEnv --env prod```
+```
+Gulp setEnv --env prod
+```
 Or 
-```Gulp setEnv```
+```
+Gulp setEnv
+```
 <br>
 ####Before the app.js is changed by the setEnv task.
 ```javascript
@@ -183,11 +187,15 @@ gulp.task('default', function () {
 <br>
 Now I can simply type Gulp and all my tasks, including the Replace task will run.
 <br>
-```gulp ```
+```
+gulp
+```
 <br>
 If you want to create a fresh distribution folder for production you could type
 <br>
-```gulp --env prod```
+```
+gulp --env prod
+```
 <br>
 When no --env parameter is provided the default parameter value is used as described in code.  In this case the default value is “`localdev`”.
 

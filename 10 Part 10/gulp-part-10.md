@@ -91,7 +91,9 @@ These are default configurations.  The base represents the path to the Gruntfile
 We can now call the Grunt task the same way we would a Gulp task but with the prefix “grunt=”.
 <br>
 ####Test Grunt Plugin
-```Gulp grunt-merge-json:menu```
+```
+Gulp grunt-merge-json:menu
+```
 <br>
 ####Add the new Grunt task to the default task.
 ```javascript
@@ -104,7 +106,9 @@ gulp.task('default', function () {
 ```
 <br>
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 

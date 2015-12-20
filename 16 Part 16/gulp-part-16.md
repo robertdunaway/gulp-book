@@ -56,7 +56,9 @@ https://github.com/gruntjs/grunt-contrib-concat
 ```npm install grunt-contrib-concat --save-dev```
 <br>
 ####Retrieve Gulp version
-```Gulp --v```
+```
+Gulp --v
+```
 <br>
 ####Every Gulp file needs a default task.  To execute Gulp’s default task
 ```grunt```
@@ -68,12 +70,16 @@ https://github.com/gruntjs/grunt-contrib-concat
 ```Grunt –help```
 <br>
 ####To verify a plugin is not blacklisted
-```Gulp --verify```
+```
+Gulp --verify
+```
 <br>
 Testing tasks while building your gulpfile.js
 You can type gulp [task-name] and your task will run.  If it has any dependencies then those dependencies will run first.
 
-```gulp [task-name]```
+```
+gulp [task-name]
+```
 
 
 

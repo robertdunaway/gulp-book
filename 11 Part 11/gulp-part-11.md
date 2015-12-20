@@ -171,7 +171,9 @@ http://jshint.com/docs/options/
 https://www.npmjs.com/package/gulp-jshint
 <br>
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 ![enter image description here](https://raw.githubusercontent.com/MashupJS/mhttps://raw.githubusercontent.com/robertdunaway/gulp-book/master/ashupjs.docs/master/docs/mashupWorkflow/gulp/11%20Part%2011/3.png)

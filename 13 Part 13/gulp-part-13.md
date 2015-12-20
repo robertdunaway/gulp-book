@@ -61,7 +61,9 @@ gulp.task('default', function () {
 ```
 <br>
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 

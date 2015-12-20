@@ -135,7 +135,9 @@ gulp.task('default', function () {
 <br>
 ####Executing the task
 You can execute the task individually
-```gulp```
+```
+gulp
+```
 
 <br>
 ![enter image description here](https://raw.githubusercontent.com/robertdunaway/gulp-book/master/12%20Part%2012/1.png)
@@ -264,7 +266,9 @@ Create a tslint.json file in the same folder as your gulpfile.js and package.jso
 ```
 <br> 
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 ![enter image description here](https://raw.githubusercontent.com/robertdunaway/gulp-book/master/12%20Part%2012/3.png)

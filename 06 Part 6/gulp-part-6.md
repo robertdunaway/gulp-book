@@ -129,7 +129,9 @@ gulp.task('default', function () {
 
 <br>
 ####Run the default task
-```gulp```
+```
+gulp
+```
 
 <br>
 
@@ -181,7 +183,9 @@ gulp.task('default', function () {
 ####Run the default task
 The Gulp command and the dist folder will be deleted and rebuilt.
 
-```Gulp```
+```
+Gulp
+```
 
 <br>
 
@@ -272,7 +276,9 @@ https://github.com/wearefractal/gulp-concat
 ####Run the default task
 The Gulp command and the dist folder will be deleted and rebuilt.
 
-```Gulp```
+```
+Gulp
+```
 
 <br>
 
@@ -340,7 +346,9 @@ Notice the “uglifyalljs” task is placed in sequence to execute only after th
 
 ###Run the default task
 <br>
-```gulp```
+```
+gulp
+```
 
 <br>
 
